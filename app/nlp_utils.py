@@ -3,7 +3,7 @@ from collections import Counter
 import json
 import re
 
-genai.configure(api_key="AIzaSyB9VJgV_CZeOW5ixb6fxjr_ReFOSb0tPB4")
+genai.configure(api_key="Token")
 
 def analyze_profile_job(job_description, profile_data):
     """
