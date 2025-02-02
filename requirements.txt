@@ -1,0 +1,15 @@
+# Framework y servidor
+fastapi==0.95.2
+uvicorn==0.24.0
+Flask==3.0.0
+Flask-JWT-Extended==4.5.3
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.0
+Werkzeug==3.0.1
+
+# Base de datos
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Utilidades
+python-dotenv==1.0.0
